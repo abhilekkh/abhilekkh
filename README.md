@@ -49,33 +49,6 @@ I'm a second-year **B.Tech Computer Science Engineering** student who likes turn
 
 ---
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
-<p align="center">
-  <img height="170" src="https://gh-stats.deoxy.dev/api?username=abhilekkh&show_icons=true&theme=transparent&title_color=7c3aed&text_color=a78bfa&icon_color=7c3aed&border_color=7c3aed&hide_rank=true" />
-  <img height="170" src="https://gh-stats.deoxy.dev/api/top-langs?username=abhilekkh&layout=donut&theme=transparent&title_color=7c3aed&text_color=a78bfa&border_color=7c3aed" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abhilekkh&theme=transparent&ring=7c3aed&fire=a78bfa&currStreakNum=7c3aed&sideNums=7c3aed&currStreakLabel=7c3aed&sideLabels=a78bfa&dates=a78bfa&stroke=7c3aed" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-mirror.vercel.app/?username=abhilekkh&theme=nord&no-bg=true&column=4&margin-w=15&margin-h=15" />
-</p>
-
----
-
-<h2 align="center">💻 Competitive Programming 💻</h2>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Abhilekkh/">
-    <img src="https://leetcard.jacoblin.cool/Abhilekkh?theme=transparent&font=Fira+Code&ext=heatmap" />
-  </a>
-</p>
-
----
-
 <h2 align="center">🌸 Sakura Ninja 🌸</h2>
 
 <p align="center">
