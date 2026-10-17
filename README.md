@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=700&height=50&duration=2200&pause=300&color=A78BFA&lines=CSE+Undergrad+(2nd+Year);Aspiring+ML+%26+Deep+Learning+Engineer;Backend+Developer+in+the+making;Competitive+Programmer" />
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhilekkh&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
-
 ---
 
 ## 🙋 About Me
@@ -18,7 +14,7 @@ I'm a second-year **B.Tech Computer Science Engineering** student who likes turn
 
 - 🎓 Currently in my **2nd year of B.Tech CSE**
 - 🧠 Learning **ML / DL** and **backend engineering**
-- 🛠️ Built projects with **Flask, Python, NumPy, Pandas, Matplotlib and Seaborn**
+- 🛠️ Built a project with **Flask**, and work with **NumPy, Pandas, Matplotlib and Seaborn** for data analysis
 - 🏆 Practising DSA and competitive programming in **C++**
 - 🤝 Open to collaborating on **ML projects, backend APIs and data tools**
 
