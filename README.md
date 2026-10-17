@@ -61,7 +61,7 @@ I'm a second-year **B.Tech Computer Science Engineering** student who likes turn
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhilekkh&theme=nord&no-bg=true&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy-mirror.vercel.app/?username=abhilekkh&theme=nord&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
